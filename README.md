@@ -9,6 +9,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 - Select different regions to view their weather data.
 - Responsive UI built with **React.js**, **TailwindCSS**, and **Next.js**.
 
+## Deployment
+You can view the live version of the JTS Weather App here:
+
+[JTS Weather App](https://jts-weather-xyxy.vercel.app/)
+
 ## Getting Started
 
 To run the development server, follow these steps:
